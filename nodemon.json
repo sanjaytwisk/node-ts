@@ -1,0 +1,6 @@
+{
+  "watch": ["./src/**/*.ts"],
+  "execMap": {
+    "ts": "ts-node --type-check --project tsconfig.json"
+  }
+}
